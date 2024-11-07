@@ -6,7 +6,7 @@ import base64
 
 # Initializing a variable to store the api key
 # GOOGLE_API_KEY = "YOUR_SECRET_KEY"                   #  for running locally
-GOOGLE_API_KEY = st.secrets['GOOGLE_API_KEY']          # for deployment
+GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]          # for deployment
 
 # Configuring the Google Generative AI library
 genai.configure(api_key=GOOGLE_API_KEY)
