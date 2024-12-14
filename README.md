@@ -32,6 +32,9 @@
 <h2>API Documentation:</h2>
 <p>The application uses the Gemini Pro API. Refer to the <a href='https://ai.google.dev/gemini-api/docs'>Gemini Pro API Documentation</a> for detailed information on endpoints and usage.</p>
 
+<h2>Website Link:</h2>
+<p>https://nutricompass.streamlit.app/</p>
+
 <h2>Authors</h2>
 <ul>
   <li>Aditya Azad Singh - <a href='https://github.com/Aditya00052'>GitHub Profile</a></li>
